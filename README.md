@@ -9,3 +9,4 @@ Este projeto em Python permite o registro e gerenciamento de notas de alunos por
    ```bash
    python nome_do_arquivo.py
    ```
+# nota
