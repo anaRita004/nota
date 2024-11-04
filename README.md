@@ -1,4 +1,4 @@
-# Registro de Notas í³š
+# Registro de Notas 
 Este projeto em Python permite o registro e gerenciamento de notas de alunos por disciplina.
 ## Funcionalidades
 - **Adicionar Notas de Aluno**: Permite registrar notas de um aluno em disciplinas.
